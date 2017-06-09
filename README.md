@@ -2,6 +2,8 @@
 
 Package to facilitate the use of https://wwww.2x3.cl
 
+We have also the other api on https://libraries.io/npm/congresschileapi and https://www.npmjs.com/package/congresschileapi
+
 # Installation
 
 To add this package on your Laravel project add this on your `composer.json file
