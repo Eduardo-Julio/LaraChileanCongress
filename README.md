@@ -1,6 +1,6 @@
 # LaraChileanCongress - Wrapper for opendata.congreso.cl web service
 
-Package to facilitate the use of opendata.congreso.cl web service using Laravel
+Package to facilitate the use of https://wwww.2x3.cl
 
 # Installation
 
